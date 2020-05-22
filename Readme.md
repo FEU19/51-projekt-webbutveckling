@@ -4,45 +4,13 @@ Webplatsen är en spinoff på [Kittenwar](http://www.kittenwar.com), en hemsida 
 
 Själva gränssnittet kommer ni göra som slutprojekt efter en skiss ( där egna designideer får utrymme ).
 
-## Relevanta mål
-
-**Kunskaper**
-- Backend-programmering med Node.js
-- Pakethantering med NPM
-
-**Färdigheter**
-- Hantera paket med NPM vid utveckling av webbappplikationer
-- Utveckla server-funktionalitet med JavaScript
-
-**Kompetenser**
-- Skapa en enklare server-lösning i JavaScript
-- Kunna välja och motivera val av ramverk och teknologier utifrån webbapplikationens omfattning och funktionalitet
-
-## Bedömning
-**Godkänt**
-- Utvecklar Backendprogrammering med Node.js
-- Redogör för pakethantering med NPM
-- Skapar användarvänliga webbapplikationer
-- Utvecklar enklare serverfunktionalitet med JavaScript
-- Väljer och motiverar val av ramverk och teknologier utifrån webbapplikationens omfattning och
-funktionalitet
-
-**Väl Godkänt**
-- Utveckla *med säkerhet* Backendprogrammering med Node.js
-- Skapa *med säkerhet* användarvänliga webbapplikationer
-- Skapa *självständigt* en serverlösning i JavaScript
-
-
 ## Tekniker
 - Node.js
 - Express.js
 - Firebase Firestore ( npm firebase-admin )
 
-## Inlämning
-- Ditt projekt ska inkomma senast **tors 14/5 kl 16**.
-- Forka [detta repo](https://github.com/johankivi/hamsterwars).
-- Du lämnar in en github-repo-länk i en *textfil* via ITHSdistans.se ( ironic framework ).
 
+# Instruktioner till studenten
 
 ## API spec
 |Resurs|Metod|Förväntat svar|
@@ -161,7 +129,7 @@ http://localhost:3000/assets/hamster-1.jpg
 - Designa erat API _innan_ ni kodar det. Använd papper och penna, alt mindmapverktyg eller dyl.
 - Samtliga hamsterobjekt ska sparas i *Firebase firestore*. Varje hamster ska vara ett eget dokument.
 - Samtliga resurser ska routas vidare till *egna moduler*.
-- 40st bilder på hamstrar hittar du [här](https://www.dropbox.com/s/0v7ws0n9t5cfyww/hamsters.zip?dl=1). Samtliga bilder är CC licens och får användas.
+- 40st bilder på hamstrar hittar du [här](https://code.zocom.io/backend/node.js/projects/hamsterwars). Samtliga bilder är CC licens och får användas.
 
 
 ## Level ups
