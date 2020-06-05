@@ -8,6 +8,7 @@ Webbplatsen är en spinoff på [Kittenwar](http://www.kittenwar.com), en hemsida
 - Express
 - Promises
 - Javascript Modules
+- Dokumentdatabas
 
 ## Cirka tidsåtgång
 1 vecka ( 3 lektionsdagar )
