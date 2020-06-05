@@ -12,3 +12,6 @@ Webbplatsen är en spinoff på [Kittenwar](http://www.kittenwar.com), en hemsida
 
 ## Cirka tidsåtgång
 1 vecka ( 3 lektionsdagar )
+
+## Förväntat lärande
+Att bygga ett enkelt REST API drivet med en databas
