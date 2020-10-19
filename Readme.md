@@ -19,7 +19,7 @@ Bilder och JSON data finns i repot.
 
 ### Guider
 + [Starta upp projektet](start-guide.md)
-+ [Publicera online (deploy)](deploy.md) - *kommer*
++ [Publicera online (deploy)](deploy.md)
 + [Att arbeta agilt](agile.md)
 
 
